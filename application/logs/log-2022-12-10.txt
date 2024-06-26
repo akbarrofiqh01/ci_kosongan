@@ -1,0 +1,6 @@
+ERROR - 2022-12-10 14:35:30 --> Could not find the language line "form_validation_min_length"
+ERROR - 2022-12-10 15:17:48 --> Could not find the language line "form_validation_required"
+ERROR - 2022-12-10 15:41:37 --> Could not find the language line "form_validation_required"
+ERROR - 2022-12-10 15:41:37 --> Could not find the language line "form_validation_required"
+ERROR - 2022-12-10 17:36:22 --> 404 Page Not Found: /index
+ERROR - 2022-12-10 17:36:22 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8

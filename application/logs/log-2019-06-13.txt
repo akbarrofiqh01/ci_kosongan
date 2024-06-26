@@ -1,0 +1,89 @@
+ERROR - 2019-06-13 00:32:08 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 02:49:25 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 04:56:25 --> 404 Page Not Found: ../modules/frontpage/controllers/Frontpage/iklan
+ERROR - 2019-06-13 06:28:32 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 06:58:06 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 07:21:29 --> 404 Page Not Found: 
+ERROR - 2019-06-13 07:21:48 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 07:26:44 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 08:20:20 --> 404 Page Not Found: 
+ERROR - 2019-06-13 08:22:28 --> 404 Page Not Found: 
+ERROR - 2019-06-13 08:22:33 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 08:24:20 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 08:47:03 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 09:36:42 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 09:36:42 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 09:53:48 --> Severity: Notice --> Undefined index: HTTP_HOST /home/ecobizglobal/public_html/application/config/config.php 26
+ERROR - 2019-06-13 09:53:48 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/ecobizglobal/public_html/application/config/config.php:26) /home/ecobizglobal/public_html/system/core/Security.php 282
+ERROR - 2019-06-13 09:53:48 --> Severity: Warning --> session_start(): Cannot send session cookie - headers already sent by (output started at /home/ecobizglobal/public_html/application/config/config.php:26) /home/ecobizglobal/public_html/system/libraries/Session/Session.php 143
+ERROR - 2019-06-13 09:53:48 --> Severity: Warning --> session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ecobizglobal/public_html/application/config/config.php:26) /home/ecobizglobal/public_html/system/libraries/Session/Session.php 143
+ERROR - 2019-06-13 10:05:20 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 10:05:30 --> 404 Page Not Found: 
+ERROR - 2019-06-13 10:07:38 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 10:07:38 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 10:32:41 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 10:55:07 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 12:11:17 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 12:11:43 --> 404 Page Not Found: 
+ERROR - 2019-06-13 12:12:54 --> 404 Page Not Found: 
+ERROR - 2019-06-13 12:57:53 --> 404 Page Not Found: 
+ERROR - 2019-06-13 13:23:40 --> 404 Page Not Found: 
+ERROR - 2019-06-13 13:23:40 --> 404 Page Not Found: 
+ERROR - 2019-06-13 13:25:17 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:25:17 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:25:37 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:25:37 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:25:55 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:25:55 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:29:06 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:29:06 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:29:11 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:29:11 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:29:30 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:29:31 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:31:06 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:31:06 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 13:58:03 --> 404 Page Not Found: 
+ERROR - 2019-06-13 14:08:52 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 14:22:52 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 15:21:26 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 15:35:02 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 15:42:49 --> 404 Page Not Found: 
+ERROR - 2019-06-13 15:48:57 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 15:48:57 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 16:49:52 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 16:55:22 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 17:02:28 --> 404 Page Not Found: 
+ERROR - 2019-06-13 17:02:49 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 17:04:02 --> 404 Page Not Found: 
+ERROR - 2019-06-13 17:04:33 --> 404 Page Not Found: 
+ERROR - 2019-06-13 17:05:05 --> 404 Page Not Found: 
+ERROR - 2019-06-13 18:09:09 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 18:09:09 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 18:54:50 --> 404 Page Not Found: 
+ERROR - 2019-06-13 19:03:29 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 19:04:14 --> 404 Page Not Found: 
+ERROR - 2019-06-13 19:37:25 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 19:37:56 --> 404 Page Not Found: 
+ERROR - 2019-06-13 19:40:45 --> Severity: Notice --> imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ /home/ecobizglobal/public_html/system/libraries/Image_lib.php 1466
+ERROR - 2019-06-13 19:54:10 --> Severity: Notice --> imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ /home/ecobizglobal/public_html/system/libraries/Image_lib.php 1466
+ERROR - 2019-06-13 19:58:32 --> Severity: Notice --> imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ /home/ecobizglobal/public_html/system/libraries/Image_lib.php 1466
+ERROR - 2019-06-13 20:03:41 --> Severity: Notice --> imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Invalid SOS parameters for sequential JPEG
+ /home/ecobizglobal/public_html/system/libraries/Image_lib.php 1466
+ERROR - 2019-06-13 20:22:29 --> 404 Page Not Found: 
+ERROR - 2019-06-13 20:23:32 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 20:41:57 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 21:22:39 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 21:26:20 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 21:40:32 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 21:40:32 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 21:57:12 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 22:12:55 --> 404 Page Not Found: 
+ERROR - 2019-06-13 22:39:30 --> 404 Page Not Found: ../modules/frontpage/controllers/Frontpage/iklan
+ERROR - 2019-06-13 22:48:55 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 22:50:07 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 22:50:24 --> 404 Page Not Found: /index
+ERROR - 2019-06-13 23:56:35 --> 404 Page Not Found: /index

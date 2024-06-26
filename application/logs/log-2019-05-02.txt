@@ -1,0 +1,722 @@
+ERROR - 2019-05-02 11:33:15 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 11:33:16 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 11:33:26 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:33:29 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 203
+ERROR - 2019-05-02 11:33:29 --> Severity: Warning --> explode(): Empty delimiter /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 207
+ERROR - 2019-05-02 11:33:29 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 216
+ERROR - 2019-05-02 11:33:29 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 217
+ERROR - 2019-05-02 11:33:48 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 11:33:50 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 11:35:11 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:35:19 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 11:35:20 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 11:35:37 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 203
+ERROR - 2019-05-02 11:35:37 --> Severity: Warning --> explode(): Empty delimiter /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 207
+ERROR - 2019-05-02 11:35:37 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 216
+ERROR - 2019-05-02 11:35:37 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 217
+ERROR - 2019-05-02 11:36:11 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:36:15 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:36:24 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:36:36 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:38:16 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:39:13 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:39:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 203
+ERROR - 2019-05-02 11:39:17 --> Severity: Warning --> explode(): Empty delimiter /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 207
+ERROR - 2019-05-02 11:39:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 216
+ERROR - 2019-05-02 11:39:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 217
+ERROR - 2019-05-02 11:39:19 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:41:07 --> Query error: Duplicate entry '17' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '16', 'left', 1, 'L5J4nW', 'Didik Yuliat', '082332289216', 'gecmcxinuwszpzgp6zsghe8beiaon10gaobrri8vkjtjvm4mxfqr26dsrlvaph4f', 'yuliatbex', '$2y$08$u/uDPlg3ypXT7m.G4agT3.nzBl51/dkQG2wDA6SUrC7iMONIR16PC', 'didikyuliat86@gmail.com', '162.158.34.118', 1556772067, 1, '0S9Bxs3VR.2z/SD8mLUa6O')
+ERROR - 2019-05-02 11:43:01 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:43:16 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:43:25 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:49:45 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:49:53 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:51:21 --> 404 Page Not Found: 
+ERROR - 2019-05-02 11:56:30 --> Query error: Duplicate entry '20' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '20', 'left', 1, 'lKT96z', 'Timothy Salim', '081330409696', 'd4f6ces0zupbzdqds2gatikqlmgp9osf9u04czenrhocsxafpg783lrwv81yjohh', 'Michael112', '$2y$08$vYwqLeb7gC2IGx3K1wj1geAL3hIy1nP6o/nre3fN4shXLLRwgtYZC', 'vonysalim21@gmail.com', '162.158.34.212', 1556772990, 1, 'Tb.lQnDWwPcBs4atip.HY.')
+ERROR - 2019-05-02 11:58:29 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 12:01:53 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:03:55 --> Query error: Duplicate entry '22' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '20', 'left', 1, 'c0xpRg', 'Julio Samuel', '081330409696', 'hb5ffyjdei6xuraiqfvles5vnz24swisymgaybqaoahrs726lkeumpvpliot8hln', 'Julioqu18', '$2y$08$2MW2UxSLgMWcaAmnlJ21Eey9owr5z/iqs8.uzKMohvPNvTItkanDS', 'angelfrost142@gmail.com', '162.158.34.212', 1556773435, 1, '4NObNMDaq6WDt4NWm7uUKe')
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/settings.php 88
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/settings.php 89
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/settings.php 90
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/profile-info.php 14
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/profile-info.php 19
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/profile-info.php 24
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/profile-info.php 32
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/profile-info.php 37
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/profile-info.php 42
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 12:08:22 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 12:08:51 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:09:00 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:09:41 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:09:47 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:09:53 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:10:04 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:15:17 --> Query error: Duplicate entry '25' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '14', 'left', 1, 'kOFV54', 'Yesica', '081330409696', 'l7q4cnnaeoyigce8ml0f1kdcwgtxhfljt9mdc3bvvb7huvoqtdkzwswbsp6p5zhy', 'Yesica123', '$2y$08$UvECXdiP0vk4omONvW9nF.JY28yQNreImhEyE8S946rP0roY1Hw0y', 'vonysalim21@gmail.com', '162.158.34.40', 1556774117, 1, 'crt53hZfYy29ZCyKoRpErO')
+ERROR - 2019-05-02 12:18:00 --> Query error: Duplicate entry '26' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '14', 'left', 1, 'I4A8Js', 'Yesica', '081330409696', 'jrorcbm54qgos9ihpnwnkxmq1pfs23vw4ezbpdytuxaibigpfgokex1i0a6yunev', 'Yesica123', '$2y$08$cqLldU0qDf6CH9TjiWM2aukCwAt3QsYIBtLv/LNfTX3Yrgy8/Ac1W', 'vonysalim213@gmail.com', '162.158.34.40', 1556774280, 1, 'DvMDgXg8o4o6HmlUOMacte')
+ERROR - 2019-05-02 12:20:03 --> Could not find the language line "form_validation_matches"
+ERROR - 2019-05-02 12:21:15 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:21:25 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:21:39 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 12:21:42 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:21:50 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:27:08 --> Could not find the language line "form_validation_matches"
+ERROR - 2019-05-02 12:27:50 --> Query error: Duplicate entry '29' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '14', 'left', 1, 'Opt0uh', 'Florence', '081330409696', 'thaovwi5ho0sfkxnrihzrqhefle1yxw7a37dyqcmbotwkjzsjbptszuuc6gjgp5l', 'Florence12', '$2y$08$FR16L10p3SNmvzm9EDqjMu3rY.dpzUMj/hs7Nq5vJQGWrxQbqbN9m', 'vonysalim21@gmail.com', '162.158.34.118', 1556774870, 1, 'dScDxgtqOSPuyaz.Qb/nm.')
+ERROR - 2019-05-02 12:29:02 --> Query error: Duplicate entry '30' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '25', 'left', 1, 'qu7knc', 'Daniel604', '87545124667', 'nevjpyrase4ga9ba5ibmuknxidqhw0utw6jlui36mqhh0er1cwdpkc8twfl12mmo', 'Daniel604', '$2y$08$/mRDBwCociM3XhrT4acLjuvSa8uEcWu1unGLdjXYLeid8XZka7/xm', 'denysugiharto@gmail.com', '162.158.34.40', 1556774942, 1, '4RRXS/3lZ9A6kZg8nerAZO')
+ERROR - 2019-05-02 12:31:53 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:31:54 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 12:32:00 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:32:10 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:32:55 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/ecobizglobal/public_html/system/libraries/Session/drivers/Session_files_driver.php:212) /home/ecobizglobal/public_html/system/core/Common.php 570
+ERROR - 2019-05-02 12:32:55 --> Severity: Error --> Maximum execution time of 30 seconds exceeded /home/ecobizglobal/public_html/system/libraries/Session/drivers/Session_files_driver.php 212
+ERROR - 2019-05-02 12:38:36 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:39:57 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:40:25 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:40:46 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:41:32 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:41:47 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:42:33 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:47:19 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:47:34 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:47:40 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:47:56 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:53:01 --> Query error: Duplicate entry '39' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '14', 'left', 1, 'xHWZ26', 'Vony 123', '081330404696', '1dgpifbca2h2iteyr4j1dmuf3xw0jnccbtsvb7aogohtlukyxgo5hghpkm6jepef', 'Vonysmile1813', '$2y$08$qVDfiI.BIH0qOeh8y3/47OBMBgIMSP/FaWu2Bzozel2K51yQPkjlq', 'vonysalim21@gmail.com', '162.158.34.118', 1556776381, 1, 'CYAaOVAqYBZipOKKfUHOPe')
+ERROR - 2019-05-02 12:56:23 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:56:33 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:56:39 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:56:52 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:58:37 --> 404 Page Not Found: 
+ERROR - 2019-05-02 12:59:27 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:00:22 --> Query error: Duplicate entry '43' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '14', 'left', 1, 'ITLKNe', 'Vony18', '081330409696', 'mnbmrgzgrkaztkl6yx8thxxerbgywx0czetulqosnt3fyuha1hprnwodp4ze9qk9', 'Vonysmile1814', '$2y$08$tLgQkTgrp8jxT.SGLPNIlOqdH0bYE7hrrOz8kWpka5I8N.cBwzjRK', 'vonysalim21@gmail.com', '162.158.34.118', 1556776822, 1, 'a1t/ORkZNnFEo1RIZilnKO')
+ERROR - 2019-05-02 13:00:49 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:01:50 --> Query error: Duplicate entry '44' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '14', 'left', 1, 'sQwYR5', 'Vony12', '081330409696', 'odh77caswwndvlerjtqwrwbmjyp6yhf1ivovpasgzpxoz8ab10hrk3cskqm0qlie', 'Vonysmile1814', '$2y$08$NNN.pwTes54Sq0zg1scBXOKqQqenrdr3dw7BwZyUNzU80gLuMkiti', 'vonysalim21@gmail.com', '162.158.34.118', 1556776910, 1, '1fIxY5U00LVfUS6mj1NUJ.')
+ERROR - 2019-05-02 13:01:51 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:02:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 34
+ERROR - 2019-05-02 13:02:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 73
+ERROR - 2019-05-02 13:02:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 13:02:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 13:02:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 13:02:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 13:02:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 13:02:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 13:02:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 13:02:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 13:04:35 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:05:28 --> Query error: Duplicate entry '46' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '14', 'left', 1, 'g9iaVF', 'Vony Salim', '081330409696', 'h4hog75upwzqbmzkb5etb8d1n2tiuxf3mwwccf1ex97qv6wqxni4k2emedjcvv6d', 'Vonysmile14', '$2y$08$4Ll/RrYw44DBawETk3XJMu9a7rWPwreIvRyGvYblc1shez32N6zS2', 'vonysalim21@gmail.com', '162.158.34.118', 1556777128, 1, 'AfloiSu5vtiL3Vu/y2tbq.')
+ERROR - 2019-05-02 13:06:13 --> Could not find the language line "form_validation_matches"
+ERROR - 2019-05-02 13:06:44 --> Could not find the language line "form_validation_matches"
+ERROR - 2019-05-02 13:07:08 --> Query error: Duplicate entry '47' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '46', 'left', 1, 'BXmDGQ', 'jaya sakti', '0852365236523', 'udm5rf0x0qppkco96xvvm19ubm6ne7ysczj3vgfxwakyjhniihtfxaeacbzsquoq', 'Jayasakti02', '$2y$08$s62UQ7.601jPlIdDXnoQUe0NxzI6Eb.EgHikVRMYYMlE9rJ/cEIr6', 'jayasakti02@gmail.com', '162.158.34.64', 1556777228, 1, 'S35WO3MXURMIliUxbaIcbO')
+ERROR - 2019-05-02 13:08:25 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:08:45 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:08:51 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:09:12 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:11:10 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:11:40 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:12:24 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:13:04 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:13:18 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:14:38 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:15:07 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:17:53 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:19:48 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 13:19:55 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 13:20:31 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 13:20:40 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:21:00 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:21:20 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:22:44 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:23:25 --> 404 Page Not Found: 
+ERROR - 2019-05-02 13:28:19 --> Query error: Duplicate entry '53' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '35', 'left', 1, 'mCUxs4', 'Daniel 608', '08754545466', '75zd6jbdn1opumqbvqeroiggkci847kmriwzunmc90raxhxjhkqoelhspylrclve', 'Daniel608', '$2y$08$JO.5JU0jbcT7dc.LbjG26OSoiRgE990rJf88K4XkSsK/1b6BJSQ66', 'Dugihto@gmail.com', '172.68.142.143', 1556778499, 1, 'S9wSLwgi.4mfin7KviD1BO')
+ERROR - 2019-05-02 13:30:31 --> Query error: Duplicate entry '54' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '46', 'left', 1, 'lR9JE1', 'Jaya sakti', '0853919764645', 'zglrhzg6pfdenuxsrsly54mtujy7zmdib9c7qatkjuvoqh82kuf6ytrwbqnwf8ma', 'Jayasakti04', '$2y$08$wXjs8/qvIoCYTSPZBVklwuT.DqDMmPGRFXdLYtoGY7DYKuVCnbN7q', 'madiun@gmail.com', '162.158.34.40', 1556778631, 1, '8UW0g8zIJUmeNuN7twX6iO')
+ERROR - 2019-05-02 13:32:14 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:34:06 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:35:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 34
+ERROR - 2019-05-02 13:35:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 73
+ERROR - 2019-05-02 13:35:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 13:35:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 13:35:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 13:35:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 13:35:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 13:35:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 13:35:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 13:35:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 13:41:05 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:42:35 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:45:54 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:45:55 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:45:58 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:45:59 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:46:42 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:46:43 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:46:51 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:46:52 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:46:55 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:46:56 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:47:06 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:47:07 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:47:36 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:47:37 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:47:49 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:47:50 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:48:01 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:48:02 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:48:05 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:48:05 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:48:26 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:48:27 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:48:31 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:48:32 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 13:55:58 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:00:15 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:00:19 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:01:03 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:01:53 --> Query error: Duplicate entry '61' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '1', 'left', 1, 'RYCkXs', 'Daniel 6010', '0875421346967', 'ejpkw0bx8hyynfaar6vuh9d6zq0jwssgl2gt87t5ifwcearcmlopxmdbvvzlqjbk', 'Daniel6010', '$2y$08$c7LEZwlbM4NdeZ/ICn8HYeIQLjqzKDlvW5mrVHpRHpieziLMUnY96', 'Dan@gmail.com', '172.68.142.143', 1556780513, 1, 'icMjoHuvAhrhBb9PlvgkNe')
+ERROR - 2019-05-02 14:03:08 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:04:15 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:07:54 --> Query error: Duplicate entry '66' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '46', 'left', 1, 'cWZGQy', 'Jagung03', '04546798368', 'frgk0devxsqoodgyxd5elegw7azav2cw9x46mlgwu3r82pppbvlhhkmtqysi7qho', 'Jagung03', '$2y$08$DrP5TQEYFCfW1ePpj9kEF.QnUJ29NIdpWKc1yXf4yKlN6t09MpSEq', 'ksjxjdjbdj@gmail.com', '162.158.34.118', 1556780874, 1, 'nBYS8hDJ2Uv/344egJwn4.')
+ERROR - 2019-05-02 14:08:19 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:08:21 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:09:54 --> Query error: Duplicate entry '67' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '46', 'left', 1, 'FBh5zj', 'Jagung03', '04546467368986', 'stmdg4vkacnxges9ui0jp9yvwppbzdamflkqg3jp6bu8otyclt347nzbnbcnezo1', 'Jagung03', '$2y$08$4oBFJEKgcQS3tLEnRJPKC.TGkTBhwINDQShHLjQAwNiiA1KP8mPL.', 'kskxjxjdkk@gmail.com', '162.158.34.64', 1556780994, 1, 'leHBqF4gQa08HRb4C9Hzge')
+ERROR - 2019-05-02 14:10:39 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:11:39 --> Query error: Duplicate entry '68' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '46', 'left', 1, '1cjfO5', 'Jagung ', '0852636523256', '2ng9shk4linykb9jcx28vum5dsercqvuqaickzdwiexjqifddncxw0txwbvoak6t', 'Jagung03', '$2y$08$j7f34b.pgQYEKxBL/Xs2r.DvNPMKf56Xado8QNNHcZLPtcyAcnP1y', 'jagung03@gmail.com', '162.158.34.118', 1556781099, 1, 'keMaca0Nd6/ImfBUsfDfP.')
+ERROR - 2019-05-02 14:15:22 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:16:10 --> Query error: Duplicate entry '69' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '46', 'left', 1, 'yfkVUu', 'Jagung03', '0852365429632', 'qqol9yljjbsdencuv8tgbtyecav0xnwfgl5nlizpospzhbt8shnm0kevcz6dycfq', 'Jagung03', '$2y$08$q.5KuWcInMAi0AU3xk46IeKz4Ht2QEnZylCTg/L6h2kj/mavpOBWq', 'jsbzudbdubd@gmail.com', '162.158.34.118', 1556781370, 1, 'ljmCIuy0iGOG9zAT2DrmBu')
+ERROR - 2019-05-02 14:18:31 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:18:40 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:18:47 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:19:24 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:20:05 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:20:32 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:20:42 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:21:06 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:21:20 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:21:40 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:22:16 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:22:31 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:23:43 --> Query error: Duplicate entry '75' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '46', 'left', 1, 'HShBCE', 'Jagung05', '846467964973', 'hp5q8v4igb9d5mfwuxbkgr3t68pb11na0be7gxcszqoeer3izfcxtmojdruhkwwj', 'Jagung05', '$2y$08$GbJpT4Xc9VQSnG8BMRPjBuHtBhz2RWk0thHMSLO2gOKEAENJoD89.', 'jsnxhisbdou@gmail.com', '162.158.34.118', 1556781823, 1, 'YhsqOrYcdVW4QjRrXDpT9e')
+ERROR - 2019-05-02 14:23:43 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:24:14 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:24:33 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:24:37 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:25:06 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:25:23 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:25:24 --> Query error: Duplicate entry '76' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '36', 'left', 1, 'meH2Pd', 'Daniel 6012', '08546431848', 'koschyd0v05dwizj4kqu3mmxucqv1j2himehgrqtbppvl3ar4ov8cya162xo6jfi', 'Daniel6012', '$2y$08$PxfauEQYx8MtcxOdnnZtBOh2MQ2DehB7V15aNvDgiDdokWKoLd.Ki', 'Dangzbsb@gmail.com', '172.68.142.143', 1556781924, 1, 'R6fr2.cI8ET4W3YO9Xtjhe')
+ERROR - 2019-05-02 14:25:48 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:26:16 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:27:43 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:27:47 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:28:12 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:28:23 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:28:41 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:28:44 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:29:00 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:29:16 --> Could not find the language line "form_validation_matches"
+ERROR - 2019-05-02 14:29:41 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:30:17 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:30:18 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 14:30:52 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:31:17 --> 404 Page Not Found: 
+ERROR - 2019-05-02 14:58:11 --> Query error: Duplicate entry '84' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '84', 'left', 1, '3nbkBG', 'Daniel 6013', '08754213679', 'sxmii4dlw43eqkhq75bchurty2kf9xtcnnz8fugl2au1dc0yzhotmb8gjgpnmlcs', 'Daniel 6013', '$2y$08$TFf8DGqR8MSI9druJ0MAgOabodCqePPp.b/Iut2YG6dy5ayFbN4l6', 'Danbshsh@gmail.com', '172.68.143.138', 1556783891, 1, 'GLweN9DQNwDvypLVZe6lcu')
+ERROR - 2019-05-02 15:09:07 --> Query error: Duplicate entry '86' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '86', 'left', 1, 'hojxNY', 'Daniel 6014', '084521364875', '33vymqpxoflwa94hrupno6sk5t1i0ecxbecycxtkazcivtkyna8y07gfwrsgo2mj', 'Daniel6014', '$2y$08$KWmNSMkvsxSL/W45gZjYEufMxWoBVNNz8Lm4RzmQtW4sIN3df3AtK', 'Dangdut@gmail.com', '172.68.143.138', 1556784547, 1, '/l8Vqevp3XeVHXWhL62jYu')
+ERROR - 2019-05-02 15:14:51 --> 404 Page Not Found: 
+ERROR - 2019-05-02 15:17:45 --> Query error: Duplicate entry '88' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '88', 'left', 1, 'ja8lsG', 'Daniel 6015', '085236974135', 'eyg9uicmq97xngvifs5ywdqr0pjwaa4beyvpnxo34uctoctfhwrw8c1o3mhzxjez', 'Daniel6015', '$2y$08$vZh727tNexe5VkVhhhWEz.VXMC8Hcj8AbM0c0Ancg81J8b.aKZdZe', 'Sangatshsg@gmail.com', '172.68.143.138', 1556785065, 1, 'P0AH//50trWujpjalE6Eue')
+ERROR - 2019-05-02 15:24:39 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 15:24:41 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 15:24:45 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 15:24:46 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 15:24:57 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 15:24:58 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 15:25:02 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 15:25:03 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 15:25:06 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 15:25:07 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 15:32:20 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 15:32:41 --> 404 Page Not Found: ../modules/welcome/controllers/Welcome/test
+ERROR - 2019-05-02 15:44:11 --> 404 Page Not Found: 
+ERROR - 2019-05-02 15:52:46 --> Could not find the language line "form_validation_max_length"
+ERROR - 2019-05-02 16:31:32 --> 404 Page Not Found: 
+ERROR - 2019-05-02 16:32:23 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 16:33:23 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 16:33:38 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 16:36:11 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 16:36:55 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 16:37:11 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:37:13 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:37:37 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 16:38:03 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:38:04 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:38:43 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:38:44 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:38:50 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:38:51 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:39:06 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:39:06 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:40:48 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:40:48 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:40:56 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:40:57 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:52:53 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:56:06 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:56:08 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:59:49 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 16:59:50 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 17:04:14 --> 404 Page Not Found: 
+ERROR - 2019-05-02 17:07:32 --> 404 Page Not Found: 
+ERROR - 2019-05-02 17:22:12 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 17:30:21 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 17:30:24 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 17:30:41 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 17:30:41 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 17:30:50 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 17:30:51 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 17:32:09 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 17:32:10 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 17:32:16 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 17:32:17 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 17:44:31 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 18:02:10 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 18:23:26 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 18:25:34 --> Query error: Duplicate entry '15' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '8', 'left', 1, 'hn6dJs', 'M ACHRIS FAUZI', '081331888419', 'bxpx7hh1dczqsqu3ovvj7mrj3klebsadg8binngh1oledcy52jguce0ai5zph4uf', 'Tranzzonic01', '$2y$08$fMPybtMkMn.SdLgNyBufv.gMgUoc2DxwYHy69XJChdC1693aMJR9q', 'tranzindo78@gmail.com', '108.162.229.142', 1556796334, 1, 'YrJukuFjhJCvnE2GCfK8De')
+ERROR - 2019-05-02 18:32:42 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:32:54 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:33:27 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:33:35 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 18:33:38 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:35:40 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:37:12 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:37:20 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:37:34 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:37:48 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:37:56 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:38:08 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:38:15 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 18:38:15 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 18:38:15 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 18:38:15 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 18:38:15 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 18:38:15 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 18:38:15 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 18:38:15 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 18:38:16 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 18:38:19 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:38:58 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:38:58 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 18:39:40 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 26
+ERROR - 2019-05-02 18:39:40 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 39
+ERROR - 2019-05-02 18:39:40 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 18:39:40 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 18:39:40 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 18:39:40 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 18:39:40 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 18:39:40 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 18:39:40 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 18:39:40 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 18:39:40 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:39:46 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:40:22 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:40:44 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:40:51 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 18:40:54 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:40:56 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 18:41:20 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:41:29 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:43:25 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:43:41 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:45:14 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:45:19 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 18:45:19 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 18:45:19 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 18:45:19 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 18:45:19 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 18:45:19 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 18:45:19 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 18:45:19 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 18:45:23 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:46:48 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:46:54 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:47:16 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:47:45 --> Query error: Duplicate entry '18' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '18', 'left', 1, 'MtwuIU', 'LIA MARGARETHA', '081239887515', 'zbsxmc3nqipdneamrwmnzfexjlrwt1ujywgpt1b6vlbkdb45cox2g3d8oyoedtp2', 'IVANDER77', '$2y$08$.jWnSi15TwaClveWmK9wJOU.V0..CF/PQASwl7/NH0JUiSmDo59cW', 'ymargaretha13@yahoo.com', '162.158.255.88', 1556797665, 1, 'LqJ87AQzK1w8Nn.yGfD0pe')
+ERROR - 2019-05-02 18:50:37 --> Query error: Duplicate entry '19' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '18', 'left', 1, 'ZExNgs', 'LIA MARGARETHA', '081238887515', 'byxlimxgz9wejkrrm18dhithw5bsgnrpabkcpv5sv7ffqgcwusjdy4xqzktyuf22', 'Ivander77', '$2y$08$vl7kRojI0eiFOJNwb1vER.fMTQe6PI0LtE67aKsSfw5w.r.hCgVG2', 'ymargaretha13@yahoo.com', '162.158.255.88', 1556797837, 1, '2gH5ib6r00GP9YZ.lc9oru')
+ERROR - 2019-05-02 18:53:30 --> 404 Page Not Found: 
+ERROR - 2019-05-02 18:57:08 --> Query error: Duplicate entry '21' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '19', 'left', 1, 'Q8LiDj', 'PSP MAX SDA', '085731440835', 'gcbe6a95t6vj7vhikgzfnmoropkhpqy0db1boytu5crqimydrcsajydxlkhh3e2s', 'Pspmaxsda01', '$2y$08$2N3XQkjGqbRcyy/v.y2zReuQlBu4WA3rEDQPDfB6TZ9xfi4QvPpU6', 'pspmaxsidoarjo@gmail.com', '162.158.34.118', 1556798228, 1, 'EVWZVT0sjqWFYU6JyvnKl.')
+ERROR - 2019-05-02 18:58:31 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:01:57 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:02:05 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:02:57 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:03:13 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:03:43 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:03:54 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:03:55 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:04:20 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:04:28 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:06:17 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 19:06:17 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 19:07:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 34
+ERROR - 2019-05-02 19:07:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 73
+ERROR - 2019-05-02 19:07:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 19:07:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 19:07:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 19:07:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 19:07:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 19:07:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 19:07:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 19:07:17 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 19:07:21 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:08:19 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 203
+ERROR - 2019-05-02 19:08:19 --> Severity: Warning --> explode(): Empty delimiter /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 207
+ERROR - 2019-05-02 19:08:19 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 216
+ERROR - 2019-05-02 19:08:19 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 217
+ERROR - 2019-05-02 19:08:29 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 203
+ERROR - 2019-05-02 19:08:29 --> Severity: Warning --> explode(): Empty delimiter /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 207
+ERROR - 2019-05-02 19:08:29 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 216
+ERROR - 2019-05-02 19:08:29 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 217
+ERROR - 2019-05-02 19:08:30 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 203
+ERROR - 2019-05-02 19:08:30 --> Severity: Warning --> explode(): Empty delimiter /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 207
+ERROR - 2019-05-02 19:08:30 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 216
+ERROR - 2019-05-02 19:08:30 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 217
+ERROR - 2019-05-02 19:08:30 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 203
+ERROR - 2019-05-02 19:08:30 --> Severity: Warning --> explode(): Empty delimiter /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 207
+ERROR - 2019-05-02 19:08:30 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 216
+ERROR - 2019-05-02 19:08:30 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/frontpage/views/template.php 217
+ERROR - 2019-05-02 19:10:19 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 19:10:54 --> Query error: Duplicate entry '24' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '24', 'left', 1, 'kTsOEU', 'Harry B Tanojo', '081234455285', 'wbl5psy4og6khm3u2cb9vok5toxuz40uqsr2bmnrvjop0wztj1qwgj86axchzxc7', 'Speed110', '$2y$08$v66YwCR3BNP4YVCVH6yyo.kyZf.UIL90KzIY4pcaxakLdJV0z1Eq2', 'harrybtanojo@gmail.com', '172.68.189.121', 1556799054, 1, 'OPtfV2L/hp4dooukD7FUje')
+ERROR - 2019-05-02 19:14:15 --> Query error: Duplicate entry '25' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '24', 'left', 1, 'SuCO79', 'Harry B Tanojo', '081234455285', 'iagxfafwgloquykjqp4ywrtht3nwzulhuvmnx876y4iorkdje2b7uedpom1bjacp', 'Speed110', '$2y$08$9jNUsRUa5pVpapDDynb28e7tocZLYwJR/G6lnFZlqqk6PHMHeUSPa', 'harrybtanojo@gmail.com', '162.158.34.64', 1556799255, 1, 'erYQYEOvebCpwiVGffGyw.')
+ERROR - 2019-05-02 19:14:58 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:15:08 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 19:15:18 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:15:41 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:17:40 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 19:18:11 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 19:21:13 --> Query error: Duplicate entry '27' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '25', 'left', 1, 'mUFnsa', 'Psp Max Sda', '085731440835', 'r3xpubyzha7wckiit4vcxzxpbdhgouwtgbf5ew4sjr8ynksnqkaymglfudlgshvm', 'Pspmaxsda19.02', '$2y$08$yzh6p39o1ThTTCzzmeOTPe.bAF8rrReKKosBTJXAZVVswy6UbamUq', 'pspmaxsidoarjo@gmail.com', '162.158.34.64', 1556799673, 1, 'vc/xYaPtQHN..6Cja3YCrO')
+ERROR - 2019-05-02 19:25:45 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:26:09 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 19:32:48 --> Query error: Duplicate entry '30' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '25', 'left', 1, 'EKnqOL', 'Psp Max Sda', '085731440835', 'nd34kvw818sicjmhmhsj2jmwpao1degg9pcuib66zpkl3mbi02rnakgbtqrnf9xe', 'PspMaxSda19.03', '$2y$08$lBXTUxqjQzojkXpwk6wcy.GzVJ6F6P0sCZtTUDKPoQvIITWRRJh8y', 'pspmaxsidoarjo@gmail.com', '162.158.34.40', 1556800368, 1, 'ucD1o.aJ9ouGGTT/AoGuuO')
+ERROR - 2019-05-02 19:33:40 --> Query error: Duplicate entry '31' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '31', 'left', 1, '6JTLDb', 'Tya', '081231445678', 'zy8nh6lc9yuiztei2f0dcyfrklldok9ffjq4wwzbrjuhbjek7ngsupitkpm3slxe', 'Iklan5758', '$2y$08$Y7p8tlH3MuPmsCYa9242kuf3KLGNcd5AOIkRxFIxAj..wWXC8lHNK', 'ahmad.demirates@gmail.com', '162.158.34.212', 1556800420, 1, 'qqJKbY30bg7gappDiiE9l.')
+ERROR - 2019-05-02 19:38:24 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 19:40:32 --> Query error: Duplicate entry '34' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '25', 'left', 1, 'EsRD7M', 'Psp Max Sda', '085731440835', 'bnsrgpmoq43eovspfqzvyt2lf8y0ajrcl57wbuhbs1revx8hu2mifnge6ck0ddcl', 'PspMaxSda19.04', '$2y$08$urP7Sdtw3naWWuwXN9/DyuwIriYrljq/kknq2gfTDJDURfpZZTlZi', 'pspmaxsidoarjo@gmail.com', '162.158.34.118', 1556800832, 1, 'BcoGk8qEeKBEUglNxsvFru')
+ERROR - 2019-05-02 19:43:09 --> Query error: Duplicate entry '35' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '25', 'left', 1, 'h9Yi4w', 'PSP Max Sda', '085731440835', 'vinrotq47n0iyotu9pkezgdpfyugidsslveoc1ms231qhfxqjmujbvjxst7kqh3k', 'PspMaxSda19.04', '$2y$08$ATx83DOggmHqRUNn9XwAYeEjM2bLx1JankuPQucBwZMn4RSMZ2mKO', 'pspmaxsidoarjo@gmail.com', '162.158.34.212', 1556800989, 1, 'gKqxkhlewCKpbeWsC4q3MO')
+ERROR - 2019-05-02 19:45:56 --> Query error: Duplicate entry '37' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '25', 'left', 1, 'qGUJ9B', 'Psp Max Sda', '085731440835', 'ulkjdcsqv7e2upedxbaxzrmzgyz4yasbjfx86c7qpggqm4tiwlophevcuk82vhyn', 'PspMaxSda19.04', '$2y$08$UATFs3lwsAM5aOzNmAcOQ.W8lhRuyPHcnp/FVEINjOueT4xOjKcMm', 'pspmaxsidoarjo@gmail.com', '162.158.34.40', 1556801156, 1, 'dsB6fb9tZd0hF4Q6PDO1Ye')
+ERROR - 2019-05-02 19:47:59 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 19:51:17 --> 404 Page Not Found: 
+ERROR - 2019-05-02 19:51:33 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 19:57:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 19:57:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 19:57:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 19:57:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 19:57:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 19:57:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 19:57:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 19:57:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 19:57:07 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 19:57:07 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 19:57:07 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 19:57:07 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 19:57:07 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 19:57:07 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 19:57:07 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 19:57:07 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 19:57:10 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/aktivasi.php 6
+ERROR - 2019-05-02 19:57:10 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 19:57:10 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 19:57:10 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 19:57:10 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 19:57:10 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 19:57:10 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 19:57:10 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 19:57:10 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 19:57:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 26
+ERROR - 2019-05-02 19:57:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 39
+ERROR - 2019-05-02 19:57:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 19:57:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 19:57:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 19:57:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 19:57:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 19:57:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 19:57:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 19:57:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 19:57:23 --> 404 Page Not Found: 
+ERROR - 2019-05-02 20:01:04 --> Query error: Duplicate entry '42' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '42', 'left', 1, '6cguG3', 'CALVIN', '081249311260', 'gqtbct1ylfbcmprfik4z5m1s8nxyavsheaxhvpwnp7exa3u0vbyso5gdk9ncyiu6', 'Nmax2019', '$2y$08$YS/V03R0iXC8NpzFIpmSHuO750kTH2035jvvSE1SQjPkaXRD0iy32', 'denysugiharto@gmail.com', '162.158.34.64', 1556802064, 1, 'u6KxckMmBJsLURjBGZSte.')
+ERROR - 2019-05-02 20:06:19 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 20:10:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 26
+ERROR - 2019-05-02 20:10:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 39
+ERROR - 2019-05-02 20:10:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 20:10:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 20:10:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 20:10:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 20:10:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 20:10:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 20:10:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 20:10:03 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 20:10:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 26
+ERROR - 2019-05-02 20:10:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 39
+ERROR - 2019-05-02 20:10:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 20:10:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 20:10:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 20:10:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 20:10:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 20:10:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 20:10:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 20:10:23 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 20:31:36 --> 404 Page Not Found: 
+ERROR - 2019-05-02 20:32:36 --> Query error: Duplicate entry '45' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '45', 'left', 1, 'p5e7Zw', 'Joeng Airin Margareth', '087751115557', 'rjglwlu9onwcj6svg5vlfmgnprqqgazibaupkjtfxh3okkn7y1iowbnydbdd6o1y', 'Airin5758', '$2y$08$SvhaJnwr/jSOcj.UnLX/c.MTDArAsDzP.FMpgEzLzzDukhgb9iXW.', 'joengairinmargareth@gmail.com', '162.158.34.64', 1556803956, 1, 'NsC93tGMFKoL/ORbpt7rAO')
+ERROR - 2019-05-02 20:33:53 --> 404 Page Not Found: 
+ERROR - 2019-05-02 20:35:44 --> 404 Page Not Found: 
+ERROR - 2019-05-02 20:36:22 --> Query error: Duplicate entry '46' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '45', 'left', 1, 'jsREHV', 'Joeng Airin Margareth', '087751115557', '9j8zto2fmsrb56qkpyz7die0axez44ncvtenlboslkgxf8ks3hlxwf0irlujatch', 'Airin5758', '$2y$08$hUe8X5st28La0V.CVGmKKO8n3tVci9JfUhKW/5JvAgHkhlg1Ao3sO', 'joengairinmargareth@gmail.com', '162.158.34.212', 1556804182, 1, 'JINFvr6r1sWYPDq9XrIVYe')
+ERROR - 2019-05-02 20:40:56 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 26
+ERROR - 2019-05-02 20:40:56 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 39
+ERROR - 2019-05-02 20:40:56 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 20:40:56 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 20:40:56 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 20:40:56 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 20:40:56 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 20:40:56 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 20:40:56 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 20:40:56 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 20:40:56 --> 404 Page Not Found: 
+ERROR - 2019-05-02 20:40:59 --> 404 Page Not Found: 
+ERROR - 2019-05-02 20:44:52 --> Query error: Duplicate entry '49' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '49', 'left', 1, 'VdC9pi', 'Stefani', '085108230012', 'b9p5qm0gl1heiuajdosbuwtzukkhhe8vfsskow4etvqylzp5i6qajdglcnftf77h', 'Stefani5758', '$2y$08$YBFO8kcY1XWtpSm5k0myG.mrWZQChVFZ1f/mMCxIq29MTF2gfPQa.', 'joengbiehoa@gmail.com', '162.158.34.64', 1556804692, 1, 'vY87oLHn8S.3yvSsjuDCkO')
+ERROR - 2019-05-02 20:45:38 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 20:46:39 --> Query error: Duplicate entry '51' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '49', 'left', 1, 'n3YFKf', 'Stefani', '085108230012', 'v1auprp4oms1gjtd9dp0yqfudhw2zmxyqklzeuwlsblcqenzlivkbjtd3gtiufkj', 'Stefani5758', '$2y$08$AoyHLmP3ukHPzJBHRryaFOD36oIot.3k3T9b0QiQN2QDZrNQzbnri', 'joengbiehoa@gmail.com', '162.158.34.212', 1556804799, 1, 'uE3LP54X7hZ87IZWrn0VRO')
+ERROR - 2019-05-02 20:47:52 --> 404 Page Not Found: 
+ERROR - 2019-05-02 20:49:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 34
+ERROR - 2019-05-02 20:49:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 73
+ERROR - 2019-05-02 20:49:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 20:49:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 20:49:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 20:49:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 20:49:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 20:49:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 20:49:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 20:49:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 20:50:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 34
+ERROR - 2019-05-02 20:50:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 73
+ERROR - 2019-05-02 20:50:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 20:50:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 20:50:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 20:50:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 20:50:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 20:50:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 20:50:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 20:50:46 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 20:55:36 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 26
+ERROR - 2019-05-02 20:55:36 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 39
+ERROR - 2019-05-02 20:55:36 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 20:55:36 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 20:55:36 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 20:55:36 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 20:55:36 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 20:55:36 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 20:55:36 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 20:55:36 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 20:55:44 --> Query error: Duplicate entry '53' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '54', 'left', 1, 'OVKprT', 'Henokhnya Imanuel', '081959417554', 'lfndjscbtpk8m9k748hx2sfj2dxgf1grauv01dvwsqop6tgrhivmi0qc4qhkyec3', 'Henokh5758', '$2y$08$azI8pX2O4v600t6PdckVAOU1ijAIxY8hk7PHT69xJBa.y7g7zdk5C', 'imanuelhn1@gmail.com', '162.158.255.28', 1556805344, 1, '8sv9sGy0uKN2RUnbjtt11e')
+ERROR - 2019-05-02 20:57:59 --> Query error: Duplicate entry '54' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '46', 'left', 1, 'jcg0k8', 'Kusnandar', '081335760853', 'xfpjahme9odlfkpldnvxp8z9cor7n1gjamfgyec5zo5wutbzmq3rbbwvyvqfcipx', 'Intan109.03', '$2y$08$JneJUVZSwwoP2y39es539OC4Afe0eXWAC4vGnMxXQgHp3b5xy2yse', 'Kusnandarsteel79@gmail.com', '162.158.34.212', 1556805479, 1, 'jNQKFRGNp97e.qbQlGJQTO')
+ERROR - 2019-05-02 21:02:27 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 21:04:50 --> Query error: Duplicate entry '56' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '46', 'left', 1, 'Ge8EYB', 'Kusnandar', '081335760853', '0z4tqmqsswlgyhkiwjlw56anexyb4t32gxfmmvavdrdvugrtjseyfza97zgxzcok', 'Intan109.03', '$2y$08$fUvt09pEeP8mlcDNQF2J4emVjDDuX4H3IlRWSxTjONmD7.pZWOUSq', 'kusnandarsteel79@gmail.com', '162.158.34.212', 1556805890, 1, 'Rkx3qH2KJbTqSngMeBYHS.')
+ERROR - 2019-05-02 21:08:48 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 21:18:37 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 21:21:18 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 21:22:18 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 21:22:27 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 21:22:28 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 21:27:27 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 21:27:35 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 21:32:16 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 34
+ERROR - 2019-05-02 21:32:16 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 73
+ERROR - 2019-05-02 21:32:16 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 21:32:16 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 21:32:16 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 21:32:16 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 21:32:16 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 21:32:16 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 21:32:16 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 21:32:16 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 21:32:21 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 21:32:21 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 21:32:21 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 21:32:21 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 21:32:21 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 21:32:21 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 21:32:21 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 21:32:21 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 21:32:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 26
+ERROR - 2019-05-02 21:32:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 39
+ERROR - 2019-05-02 21:32:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 21:32:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 21:32:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 21:32:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 21:32:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 21:32:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 21:32:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 21:32:50 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 21:37:30 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 21:37:59 --> Query error: Duplicate entry '62' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '56', 'left', 1, 'mwduh4', 'Albert Christanto', '087770147101', 'f4he4umohml6octwtfpaqenjrdchlgmnzajmtsbwvqf72xbu9rl0ydbpvrco8xu1', 'Albert5758', '$2y$08$jLmuAFjRwdQCX8BHHfpVIO8JST3Q021Gxm6/2F/uNV5UhnrJaK.h.', 'albert13salim@gmail.com', '172.68.189.121', 1556807879, 1, 'V5F05rEBhxjDhyxRJS23Re')
+ERROR - 2019-05-02 21:38:23 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 21:41:00 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 21:43:03 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 21:44:42 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 21:48:18 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 21:48:31 --> Query error: Duplicate entry '65' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '62', 'left', 1, 'vlUk43', 'Erik Khoirul Hamsah', '081333330225', 'fkkfl3jyduagezp2mhvhaiv4ibrxkn7on6cszq0jvufwq3p5ezytbsj19drg527i', 'Erik87.02', '$2y$08$rFT0Lkx6d6ZHzB72L.Vb5.dU3.9hONo61GtzyQ8mwR/RYHfpms02y', 'ericzahyqobus@gmail.com', '172.68.189.121', 1556808511, 1, 'nN5AUGGJmBTcM77pORDpy.')
+ERROR - 2019-05-02 21:51:23 --> Query error: Duplicate entry '66' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '65', 'left', 1, 'xYr4LC', 'Vonny Setiawati', '081330409696', 'o8bkys6su0x0cdul4imqhweimbglngz2ew5azeza1ilkko7onrr2mc9vraap3mgt', 'Vony2019', '$2y$08$FhlyTzCjhgGHw7KWUKWMIuQM6Z6SUcP6uuCXo4t/K0hiAwlKF74lu', 'vonysalim21@gmail.com', '172.68.143.138', 1556808683, 1, 'MZGcELbKFHr9eX.2FWdntu')
+ERROR - 2019-05-02 21:52:36 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 21:54:50 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 21:58:47 --> Query error: Duplicate entry '68' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '62', 'left', 1, 'BupLlk', 'Erik Khoirul Hamsah', '081333330225', 'sgbpi1row4lni8sgxh2hc6yr9mg7mthffvvua8k3k5ddaxgjmcpterkps0nsynbz', 'Erik87.03', '$2y$08$Dp8sCw3SCnTsAE8SsFyboevVt19JWqiDiEdszGPsjEmUSD/XrlBr.', 'ericzahyqobus@gmail.com', '162.158.255.72', 1556809127, 1, '4t03IwFEQkc8VTIAnYnyIe')
+ERROR - 2019-05-02 21:59:54 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:02:04 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:09:04 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:10:15 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:11:20 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:11:32 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:11:59 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:12:40 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:13:11 --> Query error: Duplicate entry '75' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '46', 'left', 1, 'wJK51F', 'Yuni reknowati', '085655174366', '5godnrw3el5pjcjxijvz0wsvmirkja1m93knfwkzalxrtdt6lq2ocnh9fsze8xy0', 'Maunah19', '$2y$08$MCuVhNMUgszNr4Tm891YR.A32Ie5.4ib8Eaoo28NZHFYZmMamOmRa', 'Kezianet86@gmail.com', '162.158.34.118', 1556809991, 1, '8Wo7znKQtYHZ8ne.CV//p.')
+ERROR - 2019-05-02 22:14:24 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:15:30 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:15:40 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:16:18 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:17:07 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:19:13 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:19:27 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:20:01 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:22:32 --> 404 Page Not Found: 
+ERROR - 2019-05-02 22:22:33 --> 404 Page Not Found: 
+ERROR - 2019-05-02 22:22:40 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:22:53 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:23:28 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:24:13 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:24:32 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:25:43 --> Query error: Duplicate entry '77' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '68', 'left', 1, 'SKhJmX', 'DASMIN', '082141144412', 'xa0sqw1te6esrhqinvjdphtwxdij9ynhlpfcfcgg7jctn63b7z5l3rk28tammakz', 'Putugendon77', '$2y$08$DTBe5Ea0A0cgHE28Sdr.cu.RwM8zV/iNN0MWDywjBIVphPj9mrHiC', 'azajaya77@gmail.com', '162.158.34.64', 1556810743, 1, 'niyGqt.9Wq4CMi4GSe6dzO')
+ERROR - 2019-05-02 22:26:24 --> 404 Page Not Found: 
+ERROR - 2019-05-02 22:26:42 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:26:45 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 22:27:22 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:31:48 --> 404 Page Not Found: 
+ERROR - 2019-05-02 22:32:03 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:35:48 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 34
+ERROR - 2019-05-02 22:35:48 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 73
+ERROR - 2019-05-02 22:35:48 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 22:35:48 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 22:35:48 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 22:35:48 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 22:35:48 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 22:35:48 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 22:35:48 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 22:35:48 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 22:35:52 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 22:35:52 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 22:35:52 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 22:35:52 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 22:35:52 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 22:35:52 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 22:35:52 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 22:35:52 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 22:35:55 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/aktivasi.php 6
+ERROR - 2019-05-02 22:35:55 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 22:35:55 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 22:35:55 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 22:35:55 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 22:35:55 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 22:35:55 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 22:35:55 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 22:35:55 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 22:36:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/aktivasi.php 6
+ERROR - 2019-05-02 22:36:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 22:36:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 22:36:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 22:36:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 22:36:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 22:36:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 22:36:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 22:36:09 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 22:36:27 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 26
+ERROR - 2019-05-02 22:36:27 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 39
+ERROR - 2019-05-02 22:36:27 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 22:36:27 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 22:36:27 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 22:36:27 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 22:36:27 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 22:36:27 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 22:36:27 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 22:36:27 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 22:37:06 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 26
+ERROR - 2019-05-02 22:37:06 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/dashboard.php 39
+ERROR - 2019-05-02 22:37:06 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 22:37:06 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 22:37:06 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 22:37:06 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 22:37:06 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 22:37:06 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 22:37:06 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 22:37:06 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 22:37:29 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:40:22 --> Query error: Duplicate entry '81' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '83', 'left', 1, 'OvsuJQ', 'Yuni Reknowati', '085655174366', 'da9batlpe2dubx3hqoj7bpwhqvdqidje6kfyfnc5fkrzgpvs1z84elus39kmwxro', 'Maunah19.01', '$2y$08$fwskr95QLPJ6KtlLmqjXkOgbPycOUFCG3haiGsSOHCyIQA4vfGRUG', 'kezianet86@gmail.com', '172.68.143.30', 1556811622, 1, 'HbwQ02J7HS/rekg2KdEO3.')
+ERROR - 2019-05-02 22:42:31 --> Query error: Duplicate entry '82' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '83', 'left', 1, '5q76pE', 'Yuni Reknowati', '085655174366', 'ncj6gfdt6wychb7lqiqruldylfxpwwotpnuqj0hh8zao9sx1bkew0i84zvmnxogb', 'Maunah19.01', '$2y$08$tW5ZhuW3pEPDPhqMRcC37eW6Mnsu4OhC9DFR0jGKh8d5Xfs/Jd3ci', 'kezianet86@gmail.com', '172.68.143.30', 1556811751, 1, 'oLmY/b4QRoKLLVzsZo8kPu')
+ERROR - 2019-05-02 22:43:56 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:46:52 --> Query error: Duplicate entry '83' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '83', 'left', 1, 'IlXQRK', 'Yuni Reknowati', '085655174366', 'gnu2dioae0vxwjpxuvo5wrpe9nudbtmyzgopsmm1lnfnxqkdgkh8ieqrf65tzcy3', 'Maunah19.01', '$2y$08$nuRRcup8zKjVcUkvaNeY1.cKyW72yd7aYTqgNTxPOelNyFX9xYw9y', 'kezianet86@gmail.com', '172.68.143.30', 1556812012, 1, 'G6Wob/cxfVz86sNCFEWE0.')
+ERROR - 2019-05-02 22:48:41 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:51:16 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:57:26 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:58:03 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 22:59:20 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 22:59:20 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 22:59:20 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 22:59:20 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 22:59:20 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 22:59:20 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 22:59:20 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 22:59:20 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 22:59:44 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:02:09 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:02:09 --> 404 Page Not Found: 
+ERROR - 2019-05-02 23:02:42 --> Query error: Duplicate entry '88' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '83', 'left', 1, 'UFcGgB', 'Yuni Reknowati', '085655174366', 'tvjsbfxvsn2nxmyxrodq7nd8l1l3jlhuim9ekjiefito4o7hgqpcvmhwg1pzg2km', 'Maunah19.02', '$2y$08$aFsx9ZqJZANa2HtJx6ZPk.grvf/RbhR79fdNxmg2ot7JqLXFv9ZK6', 'kezianet86@gmail.com', '172.68.142.29', 1556812962, 1, 'QhBoVZGvJXGzsh0E9PPIte')
+ERROR - 2019-05-02 23:03:58 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:05:01 --> Query error: Duplicate entry '89' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '83', 'left', 1, 'ZacMeX', 'Yuni Reknowati', '085655174366', 'opgaa2ragxqhlkfooiypmrpxbyxlwhrv1u6fynbqndtzccqumwdhfdjugs84umvw', 'Maunah19.02', '$2y$08$j6jwuC43.ib0lTAlhJ67ee6qbOEXuZzwaevV1SPL0ZjjdQmdFLvAO', 'kezianet86@gmail.com', '172.68.142.17', 1556813101, 1, 'oFglCGLX5SJdkN.QyyAjBO')
+ERROR - 2019-05-02 23:05:37 --> Query error: Duplicate entry '90' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '90', 'left', 1, 'fC7Lil', 'KRISWADI', '081805029702', '7dir1mvvuthfeatkpb0yuyd2jxjgzxq89bwwwcu9nfreycnfayvi3jmoxgmzibje', 'Krisna79', '$2y$08$oOagO5E1kjRetUUYiYkyCOEyiagagPW96zuUxlPYhK4QST/Rk7mD2', 'krisherlambang@gmail.com', '172.68.142.29', 1556813137, 1, 'F3dhbzjZcW2T0xwOloyTku')
+ERROR - 2019-05-02 23:07:04 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-02 23:07:41 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:09:04 --> 404 Page Not Found: 
+ERROR - 2019-05-02 23:10:00 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 34
+ERROR - 2019-05-02 23:10:00 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/referrals.php 73
+ERROR - 2019-05-02 23:10:00 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 13
+ERROR - 2019-05-02 23:10:00 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 118
+ERROR - 2019-05-02 23:10:00 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 149
+ERROR - 2019-05-02 23:10:00 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-sidebar.php 179
+ERROR - 2019-05-02 23:10:00 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 101
+ERROR - 2019-05-02 23:10:00 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 103
+ERROR - 2019-05-02 23:10:00 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 109
+ERROR - 2019-05-02 23:10:00 --> Severity: Notice --> Trying to get property of non-object /home/ecobizglobal/public_html/application/modules/dashboard/views/page/partials/dashboard-navbar-top.php 111
+ERROR - 2019-05-02 23:12:01 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:14:10 --> Query error: Duplicate entry '92' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '83', 'left', 1, '5RO2Tm', 'Yuni Reknowati', '085655174366', 'dsc3rcljaqpywlkufnz7orpuiauyh6gfetbj8lvxym05d6tu1jsb4za84q0okxri', 'Maunah19.02', '$2y$08$qiCe7G/3IdDvONVELOr2H.7.kk/Hj82LZO.bdejPcfnDQtw0FoFte', 'kezianet86@gmail.com', '172.68.141.16', 1556813650, 1, 'BCdCQRkfw1k8KszPbqKWzu')
+ERROR - 2019-05-02 23:18:10 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:22:16 --> Query error: Duplicate entry '94' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '94', 'left', 1, 'lwLqro', 'Racchmaningsih', '081230124343', 'kshn8bg7vcydc94wmkrm33bo10nsaifweihyj2kityhc7ma6ugrbixntzxevr10a', 'Queenkusuper1', '$2y$08$1W4R9Bz41Kpl2DGy9gUKf.TC9JGzuDx0MXGbbqzGQQpkrqyJpJAt.', 'rahmaines67@gmail.com', '172.68.142.29', 1556814136, 1, 'ClAKBrWAKg26329tbnlXqO')
+ERROR - 2019-05-02 23:28:32 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:28:47 --> 404 Page Not Found: 
+ERROR - 2019-05-02 23:28:50 --> 404 Page Not Found: 
+ERROR - 2019-05-02 23:30:29 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:30:40 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:34:27 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:35:40 --> 404 Page Not Found: 
+ERROR - 2019-05-02 23:37:20 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 23:37:58 --> 404 Page Not Found: 
+ERROR - 2019-05-02 23:38:04 --> 404 Page Not Found: 
+ERROR - 2019-05-02 23:38:40 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 12
+ERROR - 2019-05-02 23:39:55 --> Query error: Duplicate entry '97' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '97', 'left', 1, 'ALzpsC', 'Bambang Nurtjahjo L Widodo', '08164296663', 'tis0ckv3vz7dnadrhwk5qa0zu5rxhzpwd9olawfummufbj42tipvl4sy6tfbobxd', 'Omwiedo57', '$2y$08$XG/DYhhOn.fIuodTQcCALuRAizOxiCtZB5/AqwtGkNhZ5SdS.2xri', 'lestarijayalw@gmail.com', '162.158.255.72', 1556815195, 1, 'Yrg1DI3IahesKh5Xf.0Wau')
+ERROR - 2019-05-02 23:42:01 --> 404 Page Not Found: 
+ERROR - 2019-05-02 23:42:12 --> 404 Page Not Found: 
+ERROR - 2019-05-02 23:42:27 --> 404 Page Not Found: 
+ERROR - 2019-05-02 23:42:42 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:42:45 --> 404 Page Not Found: 
+ERROR - 2019-05-02 23:45:57 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:48:22 --> Query error: Duplicate entry '100' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '97', 'left', 1, 'ZKl1hb', 'Firdaus Zaki Alamsyah', '081334272543', 'ub8gnipby8hqj2smazt5nl3vtjq2esqr5dquzo9kctsrdlxmndoek4zgcwfmlwjg', 'Boybatualam1', '$2y$08$.lRUNieOKuH1JOGfXeO.3ujMNLcetoUMlU2OsMP9q3QjxHAo4ir3.', 'zaki96@yahoo.com', '162.158.34.212', 1556815702, 1, 'or4o6Apq3XF3eruNqi/X3.')
+ERROR - 2019-05-02 23:50:14 --> Query error: Duplicate entry '101' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '97', 'left', 1, 'Z2w0rT', 'Firdaus Zaki Alamsyah', '081334272543', 'y7tguml4hvexx2limbrubh9fpcpacas9g3mm4axzuldjg5swjojsf7niow188bhk', 'Boybatualam1', '$2y$08$ph3aUyV6N84rR4pQUdYTle1pG5F1BJT/iFSWm5xueijV.kZvGESEq', 'zaki96@yahoo.com', '162.158.34.212', 1556815814, 1, 'Z5vNf.l6TvV3d2ZEBnqUq.')
+ERROR - 2019-05-02 23:53:43 --> Could not find the language line "form_validation_matches"
+ERROR - 2019-05-02 23:55:08 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:55:30 --> 404 Page Not Found: /index
+ERROR - 2019-05-02 23:57:16 --> Query error: Duplicate entry '104' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '97', 'left', 1, 'zGlOQD', 'Virghea Masita Widyaningtyas', '082140608399', 'her9bneasnlfzovpjkpywhupxw4xfzxnqacbtomsrlgdjum7839ad1zohai5p41i', 'Ayusinarrubi9', '$2y$08$oH/8IBhUw1tl99TwS2SSC.RbECAJeziYNOTyBgbROPj93A.p3cKDi', 'virheamasitha93@gmail.com', '162.158.34.212', 1556816236, 1, 't4pvO.Y9okcrj9.3FXTe3u')
+ERROR - 2019-05-02 23:58:59 --> Query error: Duplicate entry '105' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '83', 'left', 1, 'wWZHoY', 'Yuni Reknowati', '085655174366', 'clc4bm72gvukxprqepien6kuy4qnqidxaflvfcgihkvaw0d5tsrjwttpsdbaut7y', 'Maunah19.03', '$2y$08$YwoUKekoqoGbQeHpFgdbZOKFLNukadlZpNpLyKVpmd/HKKy9PUbju', 'kezianet86@gmail.com', '172.68.142.209', 1556816339, 1, 'mUQ8ZlwCdMED3nwLNgOy8.')

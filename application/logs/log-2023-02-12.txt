@@ -1,0 +1,59 @@
+ERROR - 2023-02-12 00:13:10 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 00:13:10 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 08:25:14 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 08:25:14 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 08:25:19 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 08:25:19 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 08:25:21 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 08:25:21 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 08:25:24 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 08:25:24 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 08:25:24 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 08:25:24 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 08:25:47 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 08:25:47 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 08:27:27 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 08:27:27 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 08:27:30 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 08:27:30 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 08:27:35 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 08:27:35 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 11:06:19 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 11:06:19 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 11:10:26 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 11:10:26 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 12:00:00 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 12:00:00 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 12:41:56 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 12:41:56 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 12:43:07 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 12:43:07 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 12:43:43 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 12:43:43 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 13:17:29 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 13:17:29 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 13:22:40 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 13:22:40 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 16:20:30 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 16:20:30 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 16:22:56 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 16:22:56 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 17:20:45 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 17:20:45 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 17:20:53 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 17:20:53 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 17:20:59 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 17:20:59 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 17:21:01 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 17:21:01 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 17:46:51 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 17:46:51 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 17:46:53 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 17:46:53 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 22:00:53 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 22:00:53 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 22:00:55 --> 404 Page Not Found: /index
+ERROR - 2023-02-12 22:00:55 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-02-12 22:04:43 --> Could not find the language line "form_validation_required"
+ERROR - 2023-02-12 22:04:43 --> Could not find the language line "form_validation_required"
+ERROR - 2023-02-12 22:05:55 --> Could not find the language line "form_validation_required"

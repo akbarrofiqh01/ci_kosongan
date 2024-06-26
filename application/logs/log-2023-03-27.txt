@@ -1,0 +1,16 @@
+ERROR - 2023-03-27 12:14:39 --> 404 Page Not Found: /index
+ERROR - 2023-03-27 12:14:39 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-03-27 12:14:55 --> 404 Page Not Found: /index
+ERROR - 2023-03-27 12:14:55 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-03-27 12:15:50 --> 404 Page Not Found: /index
+ERROR - 2023-03-27 12:15:50 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-03-27 15:48:45 --> 404 Page Not Found: /index
+ERROR - 2023-03-27 15:48:45 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-03-27 23:19:14 --> 404 Page Not Found: /index
+ERROR - 2023-03-27 23:19:15 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-03-27 23:33:05 --> 404 Page Not Found: /index
+ERROR - 2023-03-27 23:33:05 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-03-27 23:33:06 --> 404 Page Not Found: ../modules/administrator/controllers/Administrator/index.php
+ERROR - 2023-03-27 23:33:06 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-03-27 23:33:06 --> 404 Page Not Found: /index
+ERROR - 2023-03-27 23:33:06 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8

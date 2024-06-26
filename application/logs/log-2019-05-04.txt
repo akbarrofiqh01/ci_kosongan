@@ -1,0 +1,143 @@
+ERROR - 2019-05-04 20:36:23 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 20:38:10 --> 404 Page Not Found: 
+ERROR - 2019-05-04 20:40:41 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 20:45:13 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 20:50:03 --> 404 Page Not Found: 
+ERROR - 2019-05-04 20:50:19 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 20:51:07 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 20:54:10 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/ecobizglobal/public_html/application/modules/authentication/controllers/Authentication.php:165) /home/ecobizglobal/public_html/system/core/Common.php 570
+ERROR - 2019-05-04 20:54:10 --> Severity: Error --> Call to undefined method Emailmodel::send() /home/ecobizglobal/public_html/application/modules/authentication/controllers/Authentication.php 165
+ERROR - 2019-05-04 20:54:19 --> 404 Page Not Found: 
+ERROR - 2019-05-04 20:55:40 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 20:55:55 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 20:56:29 --> 404 Page Not Found: 
+ERROR - 2019-05-04 20:57:44 --> 404 Page Not Found: 
+ERROR - 2019-05-04 20:57:52 --> 404 Page Not Found: 
+ERROR - 2019-05-04 20:58:13 --> 404 Page Not Found: 
+ERROR - 2019-05-04 20:59:50 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:00:32 --> 404 Page Not Found: 
+ERROR - 2019-05-04 21:04:20 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:04:20 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:05:50 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-04 21:07:04 --> Query error: Duplicate entry '313' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '314', 'left', 1, 'CRvJaj', 'Cahyo wildani', '085331056699', 'e8gxwb1qmchaseuu8ljqytgepgkud3kpm2a3tdf7rsvl9bincowiqxvzrniauz6h', 'Danysukses2003', '$2y$08$fWLkm9ndsQrxg5kOq5R9AOeq7ts6hBkpU.yA7Ci5nqSiHKSadNeaa', 'alkamdullilahsukses@gmail.com', '141.101.69.87', 1556978824, 1, 'pQEpjonTRrFRO7v7UQl4Xe')
+ERROR - 2019-05-04 21:09:03 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:10:30 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:10:35 --> 404 Page Not Found: 
+ERROR - 2019-05-04 21:10:39 --> 404 Page Not Found: 
+ERROR - 2019-05-04 21:10:46 --> 404 Page Not Found: 
+ERROR - 2019-05-04 21:13:06 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:15:20 --> Query error: Duplicate entry '314' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '244', 'left', 1, 'NlHKUr', 'Kriswadi', '085648284908', 'apy7lmkicrizqx4u9mwqyqahgunppe0co3vdvzgf7ceuefrd2sug6yskxs5ojwmh', 'Krisna80', '$2y$08$MWJRdSLDPdkR33vQ4vYkaOIjB.rvyfmKzIMcSR5/MfmHVDJ/jysc.', 'krisherlambang@gmail.com', '172.68.143.138', 1556979320, 1, 'Di2pbfU4K2YrvRthLMmRFO')
+ERROR - 2019-05-04 21:19:31 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:25:05 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:25:54 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:25:56 --> 404 Page Not Found: 
+ERROR - 2019-05-04 21:26:06 --> 404 Page Not Found: 
+ERROR - 2019-05-04 21:33:53 --> Query error: Duplicate entry '316' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '92', 'left', 1, '6seBPd', 'Rena Fatwa Umi Pribadi', '085714112443', '9nxam87oo4cxipgezqfz1kai8sq9u0bjqphynxmr5vb4mtjosyilqphix5cleykc', 'RenaFatwa12', '$2y$08$vrRKIite5yPFqXkRAdz5F.IsAa05wn/utuFGuXvwpi9l4.83PQluK', 'golrena00@gmail.com', '162.158.255.72', 1556980433, 1, '9Uq3LJhov8a2TowhL5WaSu')
+ERROR - 2019-05-04 21:35:38 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:36:54 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-04 21:43:35 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:46:48 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:47:27 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:47:27 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:47:50 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:51:23 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:52:51 --> 404 Page Not Found: 
+ERROR - 2019-05-04 21:54:54 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 21:56:25 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:01:00 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:01:00 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:01:24 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:02:04 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:02:10 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:02:17 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:03:47 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:04:04 --> Could not find the language line "form_validation_required"
+ERROR - 2019-05-04 22:04:04 --> Could not find the language line "form_validation_required"
+ERROR - 2019-05-04 22:05:00 --> Could not find the language line "form_validation_required"
+ERROR - 2019-05-04 22:07:37 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:08:40 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:09:06 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:09:18 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:09:36 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:10:19 --> Query error: Duplicate entry '321' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '314', 'left', 1, 'DJecyN', 'Mulyono hary saputro hst', '08123383292', 'r0zekao8q2pftmsakm1ke4x9ylotbqhvmlp5rbhgrt3daqdfypsnojugsclhcjc5', 'Lumoyo95', '$2y$08$0Nb1jYugpkJFXXTDPVEUh.f/KOM9gBuqP3cbMYjO3Bd5P3Qz7DItS', 'lumoyomoyo@gmail.com', '162.158.59.226', 1556982619, 1, 'rh3kQSy3qPj71mQ9QF69Iu')
+ERROR - 2019-05-04 22:11:20 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /home/ecobizglobal/public_html/application/modules/authentication/controllers/Authentication.php:165) /home/ecobizglobal/public_html/system/core/Common.php 570
+ERROR - 2019-05-04 22:11:20 --> Severity: Error --> Call to undefined method Emailmodel::send() /home/ecobizglobal/public_html/application/modules/authentication/controllers/Authentication.php 165
+ERROR - 2019-05-04 22:17:05 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:17:09 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:20:42 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:22:44 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:23:23 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:27:46 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:30:44 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:30:45 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:30:47 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:30:54 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:32:36 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:33:43 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:33:57 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-04 22:34:08 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:34:35 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:34:45 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:34:55 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-04 22:35:11 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:37:56 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:37:57 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:39:03 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:39:54 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:41:24 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:41:26 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:42:38 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:43:44 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:44:24 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:46:23 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:46:35 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:46:53 --> Could not find the language line "form_validation_valid_email"
+ERROR - 2019-05-04 22:47:23 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:47:28 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:47:34 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:48:44 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:49:41 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 22:51:15 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:51:22 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:51:57 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:52:08 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:52:11 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:52:21 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:52:33 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:54:05 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:54:23 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:54:25 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:56:08 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:58:37 --> 404 Page Not Found: 
+ERROR - 2019-05-04 22:58:56 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 22:59:01 --> Could not find the language line "form_validation_matches"
+ERROR - 2019-05-04 22:59:44 --> Query error: Duplicate entry '335' for key 'PRIMARY' - Invalid query: INSERT INTO `tb_users` (`upline_id`, `referral_id`, `position`, `admin_id`, `user_referral_code`, `user_fullname`, `user_phone`, `user_code`, `username`, `password`, `email`, `ip_address`, `created_on`, `active`, `salt`) VALUES (0, '332', 'left', 1, 'B4N7xE', 'Oyot5758.2', '085334960244', 'rzs1us0cwto2l45vrjfxngf0qcsdketmx3qz2h9mubg68upwjvzywdamau47xfeg', 'Oyot5758.2', '$2y$08$5m0Jy6x4TguUdyHHsB4.e.ZfVfnNXT.grbroZyXpTBR4aGoVOEX56', 'suyoto.oyot5758@gmail.com', '172.69.226.179', 1556985584, 1, 'xaApWb1SCQLQ.I2D41SwA.')
+ERROR - 2019-05-04 23:00:14 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 23:01:00 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 23:01:01 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 23:01:04 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 23:01:49 --> 404 Page Not Found: 
+ERROR - 2019-05-04 23:01:59 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 23:03:40 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 23:04:12 --> 404 Page Not Found: 
+ERROR - 2019-05-04 23:04:16 --> 404 Page Not Found: 
+ERROR - 2019-05-04 23:05:13 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 23:06:22 --> 404 Page Not Found: 
+ERROR - 2019-05-04 23:06:29 --> 404 Page Not Found: 
+ERROR - 2019-05-04 23:07:39 --> 404 Page Not Found: 
+ERROR - 2019-05-04 23:07:44 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 23:08:04 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 23:09:35 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 23:09:37 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 23:12:47 --> 404 Page Not Found: 
+ERROR - 2019-05-04 23:16:43 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 23:17:10 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 23:18:53 --> 404 Page Not Found: ../modules/frontpage/controllers/Frontpage/iklan
+ERROR - 2019-05-04 23:19:29 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 23:22:05 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 23:23:50 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 23:25:15 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/ecobizglobal/public_html/application/modules/dashboard/views/page/profile/edit-profile.php 14
+ERROR - 2019-05-04 23:29:14 --> 404 Page Not Found: ../modules/frontpage/controllers/Frontpage/iklan
+ERROR - 2019-05-04 23:29:18 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 23:33:19 --> 404 Page Not Found: /index
+ERROR - 2019-05-04 23:33:52 --> 404 Page Not Found: 

@@ -1,0 +1,75 @@
+ERROR - 2023-05-22 00:12:05 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 00:12:05 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 00:12:06 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 00:12:06 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 00:12:08 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 00:12:08 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 00:20:05 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 00:20:05 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 00:20:09 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 00:20:09 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 04:10:25 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 04:10:25 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 04:49:08 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 04:49:08 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 05:18:23 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 05:18:23 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 06:08:40 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 06:08:40 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 06:09:00 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 06:09:00 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 06:09:06 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 06:09:06 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 06:09:11 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 06:09:11 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 13:08:45 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 13:08:45 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 15:02:33 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 15:02:33 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 15:33:27 --> Severity: Notice --> Trying to get property 'user_phone' of non-object /home/u1546552/public_html/sispenju.com/application/modules/postdata/models/user_post/Registrasi.php 168
+ERROR - 2023-05-22 15:33:27 --> Severity: Notice --> Trying to get property 'user_fullname' of non-object /home/u1546552/public_html/sispenju.com/application/modules/postdata/models/user_post/Registrasi.php 169
+ERROR - 2023-05-22 15:37:55 --> Severity: Notice --> Trying to get property 'user_phone' of non-object /home/u1546552/public_html/sispenju.com/application/modules/postdata/models/user_post/Registrasi.php 168
+ERROR - 2023-05-22 15:37:55 --> Severity: Notice --> Trying to get property 'user_fullname' of non-object /home/u1546552/public_html/sispenju.com/application/modules/postdata/models/user_post/Registrasi.php 169
+ERROR - 2023-05-22 15:40:41 --> Severity: Notice --> Trying to get property 'user_phone' of non-object /home/u1546552/public_html/sispenju.com/application/modules/postdata/models/user_post/Registrasi.php 168
+ERROR - 2023-05-22 15:40:41 --> Severity: Notice --> Trying to get property 'user_fullname' of non-object /home/u1546552/public_html/sispenju.com/application/modules/postdata/models/user_post/Registrasi.php 169
+ERROR - 2023-05-22 16:43:45 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 16:43:45 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 16:44:06 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 16:44:06 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 16:44:08 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 16:44:08 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 16:44:16 --> Could not find the language line "form_validation_required"
+ERROR - 2023-05-22 16:50:43 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 16:50:43 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 16:50:47 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 16:50:47 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 16:50:50 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 16:50:50 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 16:51:24 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 16:51:24 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 18:38:03 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 18:38:03 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 18:47:34 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 18:47:34 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 19:15:49 --> Severity: Notice --> Trying to get property 'user_phone' of non-object /home/u1546552/public_html/sispenju.com/application/modules/postdata/models/user_post/Registrasi.php 297
+ERROR - 2023-05-22 19:15:49 --> Severity: Notice --> Trying to get property 'user_fullname' of non-object /home/u1546552/public_html/sispenju.com/application/modules/postdata/models/user_post/Registrasi.php 298
+ERROR - 2023-05-22 19:17:08 --> Severity: Notice --> Trying to get property 'user_phone' of non-object /home/u1546552/public_html/sispenju.com/application/modules/postdata/models/user_post/Registrasi.php 297
+ERROR - 2023-05-22 19:17:08 --> Severity: Notice --> Trying to get property 'user_fullname' of non-object /home/u1546552/public_html/sispenju.com/application/modules/postdata/models/user_post/Registrasi.php 298
+ERROR - 2023-05-22 19:17:51 --> Severity: Notice --> Trying to get property 'user_phone' of non-object /home/u1546552/public_html/sispenju.com/application/modules/postdata/models/user_post/Registrasi.php 297
+ERROR - 2023-05-22 19:17:51 --> Severity: Notice --> Trying to get property 'user_fullname' of non-object /home/u1546552/public_html/sispenju.com/application/modules/postdata/models/user_post/Registrasi.php 298
+ERROR - 2023-05-22 20:49:57 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 20:49:57 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 20:50:00 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 20:50:00 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 20:50:19 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 20:50:19 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 20:50:58 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 20:50:58 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 21:07:22 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 21:07:22 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 21:07:25 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 21:07:25 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 21:19:14 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 21:19:14 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8
+ERROR - 2023-05-22 23:19:16 --> 404 Page Not Found: /index
+ERROR - 2023-05-22 23:19:16 --> Severity: error --> Exception: Call to undefined function base_url() /home/u1546552/public_html/sispenju.com/application/views/errors/html/error_404.php 8

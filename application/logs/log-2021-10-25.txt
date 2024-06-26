@@ -1,0 +1,107 @@
+ERROR - 2021-10-25 08:14:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 08:14:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 08:14:15 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 08:14:49 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 08:14:49 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 08:14:49 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 08:14:49 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 08:14:49 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 08:14:49 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 08:14:49 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 08:14:49 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 08:17:10 --> Severity: error --> Exception: Call to undefined method Profile::updateinformasi() /home/u1546552/public_html/yaleestyle.com/application/modules/postdata/controllers/Postdata.php 54
+ERROR - 2021-10-25 08:19:26 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 08:27:15 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 08:59:35 --> 404 Page Not Found: 
+ERROR - 2021-10-25 09:10:37 --> Severity: Notice --> Undefined variable: datapack /home/u1546552/public_html/yaleestyle.com/application/modules/modal/views/member/pay-bulanan.php 14
+ERROR - 2021-10-25 09:10:37 --> Severity: Notice --> Trying to get property 'invoice_amount' of non-object /home/u1546552/public_html/yaleestyle.com/application/modules/modal/views/member/pay-bulanan.php 14
+ERROR - 2021-10-25 09:10:37 --> Severity: Notice --> Undefined variable: datapack /home/u1546552/public_html/yaleestyle.com/application/modules/modal/views/member/pay-bulanan.php 14
+ERROR - 2021-10-25 09:10:37 --> Severity: Notice --> Trying to get property 'package_month' of non-object /home/u1546552/public_html/yaleestyle.com/application/modules/modal/views/member/pay-bulanan.php 14
+ERROR - 2021-10-25 09:10:54 --> Severity: Notice --> Undefined variable: datapack /home/u1546552/public_html/yaleestyle.com/application/modules/modal/views/member/pay-bulanan.php 14
+ERROR - 2021-10-25 09:10:54 --> Severity: Notice --> Trying to get property 'invoice_amount' of non-object /home/u1546552/public_html/yaleestyle.com/application/modules/modal/views/member/pay-bulanan.php 14
+ERROR - 2021-10-25 09:10:54 --> Severity: Notice --> Undefined variable: datapack /home/u1546552/public_html/yaleestyle.com/application/modules/modal/views/member/pay-bulanan.php 14
+ERROR - 2021-10-25 09:10:54 --> Severity: Notice --> Trying to get property 'package_month' of non-object /home/u1546552/public_html/yaleestyle.com/application/modules/modal/views/member/pay-bulanan.php 14
+ERROR - 2021-10-25 09:11:02 --> Severity: Notice --> Undefined variable: datapack /home/u1546552/public_html/yaleestyle.com/application/modules/modal/views/member/pay-bulanan.php 14
+ERROR - 2021-10-25 09:11:02 --> Severity: Notice --> Trying to get property 'invoice_amount' of non-object /home/u1546552/public_html/yaleestyle.com/application/modules/modal/views/member/pay-bulanan.php 14
+ERROR - 2021-10-25 09:11:02 --> Severity: Notice --> Undefined variable: datapack /home/u1546552/public_html/yaleestyle.com/application/modules/modal/views/member/pay-bulanan.php 14
+ERROR - 2021-10-25 09:11:02 --> Severity: Notice --> Trying to get property 'package_month' of non-object /home/u1546552/public_html/yaleestyle.com/application/modules/modal/views/member/pay-bulanan.php 14
+ERROR - 2021-10-25 12:06:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:47 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:06:48 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:11:36 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`u1546552_yaleestyleDB`.`tb_users_pembayaran`, CONSTRAINT `tb_users_pembayaran_ibfk_1` FOREIGN KEY (`pembayaran_invoice_id`) REFERENCES `tb_users_invoice` (`invoice_id`) ON DELETE CASCADE ON U) - Invalid query: INSERT INTO `tb_users_pembayaran` (`pembayaran_invoice_id`, `pembayaran_userid`, `pembayaran_bankcode`, `pembayaran_bank_jenis`, `pembayaran_atas_nama`, `pembayaran_rekening`, `pembayaran_ke`, `pembayaran_nominal`, `pembayaran_struk`, `pembayaran_date_add`, `pembayaran_code`, `pembayaran_usercode`, `pembayaran_type`) VALUES (0, '2', 'xcdffenpgt6jtscwhlwaru6dqkzw5urrzvrijdf1vad0hp3l4oimgvmhbqcxwyhp', 'BRI', 'Budi', '12121212', 2, 200000, 'reward02.jpg', '2021-10-25 12:11:36', 'qe9izrykcc5803opix8aiseyqrqhyvxkdsdklgraerhuz3e42lh1ljpc2gwwnbfv', 'asqvpmiq3shjrwi8h6n2qj19zvzng5gqstt4box9cvvdaef13yuoz0jl7ritujxo', 'monthly')
+ERROR - 2021-10-25 12:12:19 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`u1546552_yaleestyleDB`.`tb_users_pembayaran`, CONSTRAINT `tb_users_pembayaran_ibfk_1` FOREIGN KEY (`pembayaran_invoice_id`) REFERENCES `tb_users_invoice` (`invoice_id`) ON DELETE CASCADE ON U) - Invalid query: INSERT INTO `tb_users_pembayaran` (`pembayaran_invoice_id`, `pembayaran_userid`, `pembayaran_bankcode`, `pembayaran_bank_jenis`, `pembayaran_atas_nama`, `pembayaran_rekening`, `pembayaran_ke`, `pembayaran_nominal`, `pembayaran_struk`, `pembayaran_date_add`, `pembayaran_code`, `pembayaran_usercode`, `pembayaran_type`) VALUES (0, '2', 'xcdffenpgt6jtscwhlwaru6dqkzw5urrzvrijdf1vad0hp3l4oimgvmhbqcxwyhp', 'BRI', 'Budi', '1212121', 2, 200000, 'reward01.jpg', '2021-10-25 12:12:19', 'nsslr7abjgzr4ke0xfhy70dwqzvu2koptoyhdutfjenzxhqsrcpg2ygqa8nxwc9x', 'asqvpmiq3shjrwi8h6n2qj19zvzng5gqstt4box9cvvdaef13yuoz0jl7ritujxo', 'monthly')
+ERROR - 2021-10-25 12:18:25 --> 404 Page Not Found: 
+ERROR - 2021-10-25 12:26:03 --> Query error: Unknown column 'invoice_date_add' in 'order clause' - Invalid query: SELECT *
+FROM `tb_users_pembayaran`
+JOIN `tb_users` ON `pembayaran_userid` = `id`
+WHERE `pembayaran_status` = 'pending'
+AND `pembayaran_type` = 'monthly'
+ORDER BY `invoice_date_add` DESC
+ LIMIT 15
+ERROR - 2021-10-25 12:26:14 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:26:23 --> Severity: Notice --> Undefined property: stdClass::$invoice_amount /home/u1546552/public_html/yaleestyle.com/application/modules/administrator/views/data-invoice-bulanan.php 64
+ERROR - 2021-10-25 12:26:23 --> Severity: Notice --> Undefined property: stdClass::$package_month /home/u1546552/public_html/yaleestyle.com/application/modules/administrator/views/data-invoice-bulanan.php 64
+ERROR - 2021-10-25 12:26:23 --> Severity: Notice --> Undefined property: stdClass::$invoice_date_add /home/u1546552/public_html/yaleestyle.com/application/modules/administrator/views/data-invoice-bulanan.php 77
+ERROR - 2021-10-25 12:26:45 --> Severity: Notice --> Undefined property: stdClass::$invoice_date_add /home/u1546552/public_html/yaleestyle.com/application/modules/administrator/views/data-invoice-bulanan.php 77
+ERROR - 2021-10-25 12:26:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:28:11 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:29:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:30:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:31:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:32:53 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:33:57 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:34:50 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:36:06 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:38:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:39:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 12:41:08 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 13:20:21 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 13:35:12 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 14:11:46 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 14:34:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 16:46:24 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 16:46:24 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 16:46:24 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 16:46:24 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 16:46:24 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 16:47:26 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 16:47:26 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 16:47:26 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 16:47:26 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 16:47:26 --> Could not find the language line "form_validation_required"
+ERROR - 2021-10-25 17:04:54 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 17:43:52 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 19:31:13 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 20:34:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 21:33:29 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:13:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:30 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:32 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:33 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:34 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:35 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:36 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:38 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:39 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:40 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:41 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:42 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:42 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:43 --> 404 Page Not Found: /index
+ERROR - 2021-10-25 23:29:44 --> 404 Page Not Found: /index
